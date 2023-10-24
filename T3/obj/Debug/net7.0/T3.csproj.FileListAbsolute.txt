@@ -1,0 +1,15 @@
+/Users/sserebell/Desktop/C4/T3/bin/Debug/net7.0/T3
+/Users/sserebell/Desktop/C4/T3/bin/Debug/net7.0/T3.deps.json
+/Users/sserebell/Desktop/C4/T3/bin/Debug/net7.0/T3.runtimeconfig.json
+/Users/sserebell/Desktop/C4/T3/bin/Debug/net7.0/T3.dll
+/Users/sserebell/Desktop/C4/T3/bin/Debug/net7.0/T3.pdb
+/Users/sserebell/Desktop/C4/T3/obj/Debug/net7.0/T3.csproj.AssemblyReference.cache
+/Users/sserebell/Desktop/C4/T3/obj/Debug/net7.0/T3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sserebell/Desktop/C4/T3/obj/Debug/net7.0/T3.AssemblyInfoInputs.cache
+/Users/sserebell/Desktop/C4/T3/obj/Debug/net7.0/T3.AssemblyInfo.cs
+/Users/sserebell/Desktop/C4/T3/obj/Debug/net7.0/T3.csproj.CoreCompileInputs.cache
+/Users/sserebell/Desktop/C4/T3/obj/Debug/net7.0/T3.dll
+/Users/sserebell/Desktop/C4/T3/obj/Debug/net7.0/refint/T3.dll
+/Users/sserebell/Desktop/C4/T3/obj/Debug/net7.0/T3.pdb
+/Users/sserebell/Desktop/C4/T3/obj/Debug/net7.0/T3.genruntimeconfig.cache
+/Users/sserebell/Desktop/C4/T3/obj/Debug/net7.0/ref/T3.dll
